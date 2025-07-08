@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/amd64 ghcr.io/huggingface/text-embeddings-inference:cpu-1.6
+--platform=linux/amd64 1panel/maxkb:v1.10.8-lts
