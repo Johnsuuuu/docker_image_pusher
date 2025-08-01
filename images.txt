@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/amd64 ghcr.io/huggingface/text-embeddings-inference:hopper-1.7
+--platform=linux/amd64 python:3.11-slim
