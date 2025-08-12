@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/amd64 lmsysorg/sglang:v0.4.9.post6-cu126
+--platform=linux/amd64 vllm/vllm-openai:v0.10.0
