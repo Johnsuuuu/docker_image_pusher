@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/amd64 ghcr.io/huggingface/text-embeddings-inference:1.8
+--platform=linux/amd64 opencoze/opencoze:latest
