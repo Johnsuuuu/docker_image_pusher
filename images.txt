@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/amd64 python:3.11
+--platform=linux/amd64 elasticsearch:8.15.0
