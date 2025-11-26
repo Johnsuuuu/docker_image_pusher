@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/amd64 elasticsearch:8.15.0
+--platform=linux/arm64/v8 node:18.20-slim
