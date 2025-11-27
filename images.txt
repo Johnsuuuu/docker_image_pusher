@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/arm64/v8 node:18.20-slim
+--platform=linux/amd64 redis:8.2.2
