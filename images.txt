@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/amd64 langgenius/dify-sandbox:0.2.12
+--platform=linux/amd64 langgenius/dify-plugin-daemon:0.4.1-local
