@@ -1,2 +1,2 @@
 #支持指定架构
---platform=linux/amd64 vllm/vllm-openai:nightly-653591d5e73b34ffd9186c61e964474bcc4b7c80
+--platform=linux/amd64 node:18-bullseye-slim
